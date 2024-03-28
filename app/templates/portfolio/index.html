@@ -4,6 +4,21 @@
 Bienvenido
 {% endblock %}
 
-{% block contend %}
-    lala
+{% block content %}
+<div class='hero'>
+    <div class='hero-content'>
+        <div class='left'>
+            <h1>Soy desrroyador</h1>
+            <h1>Antonio Luna</h1>
+            <p>Creo todo tipo de aplicaciones con Python, desde aplicaciones de escritorio hasta paginas web.</p>
+            <a href='#contacto' class='btn'>Contáctame</a>
+        </div>
+        <div class='right'>
+            <img src='{{ url_for('static', filename='img.png') }}' width=600px />
+        </div>
+    </div>
+</div>
+{% include 'portfolio/section-first.html' %}
+{% include 'portfolio/section-second.html' %}
+{% include 'portfolio/section-third.html' %}
 {% endblock %}
