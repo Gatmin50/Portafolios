@@ -33,7 +33,7 @@ Una aplicación web desarrollada con Flask que permite a los usuarios registrars
 
 ## Contacto
 
-- **Correo Electrónico**: [tuemail@example.com](mailto:tuemail@example.com)
+- **Correo Electrónico**: [tonilube6@gmail.com](mailto:tonilube6@gmail.com)
 - **LinkedIn**: [linkedin](https://linkedin.com/in/antonio-luna-benítez-b0260231b)
 
 ¡Gracias por visitar mi portafolio! Estoy abierto a colaboraciones y oportunidades que me permitan crecer profesionalmente en el mundo de la ciberseguridad y la programación.
